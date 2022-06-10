@@ -1,3 +1,14 @@
+/*
+Commit Subjects:
+  • global - update, fix, or addition to global code, styling, structure of website
+  • feature - update, or addition of a feature/component/part to website
+  • fix - syntactical, or bug fix to a feature/component/part in website
+  • docs - anything related to documentation
+  • refactor - refactoring, or restructuring of website code without changing its functionality
+  • style - restyling of any code (different from refactoring; including changes to line spacing, tabbing, etc)
+  • chore - code maintainance
+*/
+
 <p align="center">
   <a href="https://terminalizer.com">
     <img src="docs/logo.jpg"/>
