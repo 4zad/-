@@ -22,6 +22,16 @@ $layout-desktopLg: map-get($layout, desktopLg) + px;
 // ====================================================================
 $white: #fff;
 $black: #000;
+$color-bg-primary: darken($color-1-bold, 60%);
+$color-bg-secondary: darken($color-1-bold, 30%);
+$color-text-primary: lighten($color-3-bold, 10%);
+$color-text-secondary: lighten($color-3-pastel, 20%);
+$color-1-bold: #6961E5;
+$color-1-pastel: #997CFF;
+$color-2-bold: #FF84FF;
+$color-2-pastel: #FFCEEE;
+$color-3-bold: #70FFFF;
+$color-3-pastel: #B8F8FF;
 
 // ====================================================================
 // General
